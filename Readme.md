@@ -152,6 +152,8 @@ If this guide helped you successfully install Arch Linux, please consider giving
 
 **Your support motivates us to keep improving this guide.**
 
+</div>
+
 ### 📞 **Need Help?**
 
 - 💬 **Discussion**: Use GitHub Discussions for questions
@@ -167,6 +169,7 @@ If this guide helped you successfully install Arch Linux, please consider giving
 - 🔔 Enable notifications
 
 ---
+<div align="center">
 
 **Made with ❤️ by the Arch Linux community**
 
