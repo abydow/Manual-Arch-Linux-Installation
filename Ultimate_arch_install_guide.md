@@ -247,7 +247,7 @@ ls -la /path/to/usb/EFI/boot/
      - Lenovo: `F12` (ThinkPad: `Enter` → `F12`)
      - ASUS: `F8`
      - MSI: `F11`
-   - (To be honest, I dont have much idea about this. but I found this chart from a website so I shared it. I have a Asus laptop my bios opens with f2 🫠 )
+   > (To be honest, I dont have much idea about this. but I found this chart from a website so I shared it. I have a Asus laptop my bios opens with f2 🫠 )
 3. **Select USB device** from boot options
 4. **Choose "Arch Linux install medium"** (default, wait 15 seconds)
 
