@@ -349,7 +349,8 @@ ssh root@192.168.1.100
 ```bash
 # Test connection (should work automatically)
 ping -c 3 archlinux.org
-# Expected: 0% packet loss
+# Expected: 0% packet loss with a good internet connection ( but its not that critical )
+# just check if you recieved 3 packages or not..
 
 # If not working, try:
 dhcpcd
