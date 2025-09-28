@@ -7,7 +7,8 @@
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)](https://GitHub.com/abydow/Manual-Arch-Linux-Installation/graphs/commit-activity)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 </div>
-### 🎯 **The Ultimate Manual Installation Experience**
+
+## 🎯**The Ultimate Manual Installation Experience**
 
 *Master Arch Linux installation from scratch and gain complete control over your system*
 Welcome to the Manual Arch Installation
