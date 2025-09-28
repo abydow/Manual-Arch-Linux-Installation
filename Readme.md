@@ -10,15 +10,13 @@
 ### 🎯 **The Ultimate Manual Installation Experience**
 
 *Master Arch Linux installation from scratch and gain complete control over your system*
-    /\        Welcome to the Manual Arch Installation
-   /  \       ___________________________________
-  /\   \      
- /  )   )     🏗️  Build your system from ground up
-/  /   /      ⚡  Lightning-fast performance
-\  \  /       🎛️  Complete customization control
- \  \/        🛡️  Enhanced security configuration
-  \  \        📚  Educational deep-dive experience
-   \__\       
+Welcome to the Manual Arch Installation
+________________________________________
+- 🏗️  Build your system from ground
+- ⚡  Lightning-fast performance
+- 🎛️  Complete customization control
+- 🛡️  Enhanced security configuration
+- 📚  Educational deep-dive experience       
 
 
 </div>
