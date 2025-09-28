@@ -197,7 +197,7 @@ sync
 ```
 
 **🥈 Method 2: Ventoy (Multi-ISO Solution)**
-
+(I personally use this cause I have to work with multiple Operating systems. Don't choose this option unless you have multiple operating systems to mess with)
 > **Perfect for**: System administrators, regular ISO users
 
 ```bash
@@ -247,7 +247,7 @@ ls -la /path/to/usb/EFI/boot/
      - Lenovo: `F12` (ThinkPad: `Enter` → `F12`)
      - ASUS: `F8`
      - MSI: `F11`
-
+(To be honest, I dont have much idea about this. but I found this chart from a website so I shared it. I have a Asus laptop my bios opens with f2 🫠 )
 3. **Select USB device** from boot options
 4. **Choose "Arch Linux install medium"** (default, wait 15 seconds)
 
