@@ -8,29 +8,18 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge)](http://makeapullrequest.com)
 
 ### 🎯 **The Ultimate Manual Installation Experience**
-*Master Arch Linux installation from scratch and gain complete control over your system*
 
-```ascii
-                      -`
-                  .o+`                 Welcome to the Manual Arch Installation
-                 `ooo/                 =======================================
-                `+oooo:                
-               `+oooooo:               🏗️  Build your system from ground up
-               -+oooooo+:              
-             `/:-:++oooo+:             ⚡  Lightning-fast performance
-            `/++++/+++++++:            
-           `/++++++++++++++:           🎛️  Complete customization control
-          `/+++ooooooooooooo/`         
-         ./ooosssso++osssssso+`        🛡️  Enhanced security configuration
-        .oossssso-````/ossssss+`       
-       -osssssso.      :ssssssso.      📚  Educational deep-dive experience
-      :osssssss/        osssso+++.     
-     /ossssssss/        +ssssooo/-    --------------------------------------------
-   `/ossssso+/:-        -:/+osssso+-  --------------------------------------------
-  `+sso+:-`                 `.-/+oso: 
- `++:.                           `-/+/
- .`                                 `/       
-```
+*Master Arch Linux installation from scratch and gain complete control over your system*
+    /\        Welcome to the Manual Arch Installation
+   /  \       ___________________________________
+  /\   \      
+ /  )   )     🏗️  Build your system from ground up
+/  /   /      ⚡  Lightning-fast performance
+\  \  /       🎛️  Complete customization control
+ \  \/        🛡️  Enhanced security configuration
+  \  \        📚  Educational deep-dive experience
+   \__\       
+
 
 </div>
 
